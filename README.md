@@ -1,7 +1,9 @@
 # Hello, I'm Pavel 👋
 
 ### Welcome to my GitHub profile! 
-I'm a beginner frontend developer specializing in modern web technologies. Currently, I am a 3rd-year student at **IRIT-RTF**, studying **Software Engineering**. I enjoy working on interesting projects and continuously learning new things.
+I'm a beginner frontend developer specializing in modern web technologies 🚀
+Currently, I am a 3rd-year student at **IRIT-RTF** 🎓, studying  **Software Engineering** 💻
+I enjoy working on interesting projects and continuously learning new things ⚡⚡⚡
 
 ## 🛠️ Tech Stack
 
