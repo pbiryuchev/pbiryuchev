@@ -30,9 +30,10 @@ I enjoy working on interesting projects and continuously learning new things ⚡
 
 ## 🔥 GitHub Stats
 
-![Pavel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydlioh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydlioh&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aydlioh&show_icons=true&theme=radical" alt="Pavel's GitHub Stats" style="max-width: 56%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydlioh&layout=compact&theme=radical" alt="Top Langs" style="max-width: 44%;" />
+</div>
 
 ## 📫 How to Reach Me
 
