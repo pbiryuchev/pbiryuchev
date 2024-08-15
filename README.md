@@ -1,9 +1,8 @@
 # Hello, I'm Pavel 👋
 
 ### Welcome to my GitHub profile! 
-I'm a 19-year-old frontend developer from **Yekaterinburg**, specializing in modern web technologies 🚀  
-Currently, I’m a 3rd-year student at **IRIT-RTF** 🎓, studying **Software Engineering** 💻  
-I enjoy working on interesting projects and continuously learning new things ⚡⚡⚡
+I'm a 19-year-old frontend developer from **Yekaterinburg**, specializing in modern web technologies 🚀
+Currently, I’m a student at **IRIT-RTF** 🎓, studying **Software Engineering** 💻. I enjoy working on interesting projects and continuously learning new things ⚡⚡⚡
 
 ## 🛠️ Tech Stack
 
