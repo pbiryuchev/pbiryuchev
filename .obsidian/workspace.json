@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "cdc025e81e493c3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9298e51a3dc498e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d884bc933e74647",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c8c7cb20a76bf30",
+    "type": "split",
+    "children": [
+      {
+        "id": "9111ea4f9dba5eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf738f3ff0a2e279",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "427086e2a56fb173",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8af4b6beae5aea0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "e1d66fcc6fb787f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0703447378317ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2e68d685016608",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "533b2fd5a38ec544",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b660df7e627cc79e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "951075d0dacd5ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4d884bc933e74647",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-15 14.51.19.excalidraw.md",
+    "Algorithms/exam/readme.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Web/React/ecosystem/Tanstack Query/examples.md",
+    "Excalidraw/Drawing 2024-08-15 01.48.51.excalidraw.md",
+    "Pasted Image 20240815013406_558.png",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-08-15 01.36.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-15 01.32.49.excalidraw.md",
+    "Web/more/PWA.md",
+    "aydlioh/README.md",
+    "Web/more/Типизация.md",
+    "пизда.md",
+    "Web/React/ecosystem/Tanstack Query/info.md",
+    "Web/Разное/API/Media API.md",
+    "Web/Разное/github.md",
+    "Web/questions",
+    "Web/mdn",
+    "Web/Untitled.md",
+    "Интересные туториалы/info.md",
+    "Web/Разное/CringeUI.md",
+    "Web/Разное/протоколы/info.md",
+    "Web/Разное",
+    "Nikolay's Github Stats.md",
+    "aydlioh",
+    "Algorithms/exam/tasks/019.md",
+    "Web/Разное/eventListeners/mousemove.md",
+    "Web/FSD/featured sliced design.md",
+    "Web/Разное/API/web-socket/socket.io/info.md",
+    "Web/browser/fonts.md",
+    "Web/Разное/API/web-socket/hooks/useWsLoader.md",
+    "Web/Разное/API/web-socket/hooks/useChat.md",
+    "Web/Разное/API/Speech API.md",
+    "Web/more",
+    "Algorithms/exam/pictures/26.png",
+    "Algorithms/exam/pictures/25.png",
+    "Pasted image 20240620225826.png",
+    "Pasted image 20240620221132.png",
+    "Algorithms/exam/pictures/19.png",
+    "Algorithms/exam/pictures/20.png",
+    "Algorithms/exam/pictures/24.png",
+    "Algorithms/exam/pictures/23.png",
+    "Algorithms/exam/pictures/22.png",
+    "Algorithms/exam/pictures",
+    "Algorithms/exam",
+    "Algorithms/exam/tasks",
+    "Algorithms"
+  ]
+}
