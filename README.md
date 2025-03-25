@@ -9,15 +9,14 @@ I enjoy working on interesting projects and continuously learning new things ⚡
 
 ### Frontend
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/) 
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/) 
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/) 
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/) 
-[![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-00C4CC?logo=framer&logoColor=white&style=for-the-badge)](https://www.framer.com/api/motion/) 
-[![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge)](https://redux-toolkit.js.org/)  
-[![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge)](https://tanstack.com/query/v5) 
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)  
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)](https://angular.dev/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)    
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)](https://redux.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)  
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev/)  
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
+
 
 ### Backend
 
