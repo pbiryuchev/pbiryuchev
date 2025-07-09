@@ -20,8 +20,8 @@
 ## 🔥 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aydlioh&show_icons=true&theme=radical" alt="Pavel's GitHub Stats" style="max-width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydlioh&layout=compact&theme=radical" alt="Top Langs" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pbiryuchev&show_icons=true&theme=radical" alt="Pavel's GitHub Stats" style="max-width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbiryuchev&layout=compact&theme=radical" alt="Top Langs" style="max-width: 45%;" />
 </div>
 
 ## 📫 How to Reach Me
